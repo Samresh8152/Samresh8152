@@ -1,18 +1,108 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>	•	AI based Finance Tracker App<br><br>👯 I’m looking to collaborate on<br>	•	Web development projects<br><br>🌱 I’m currently learning<br>	•	Data Structures & Algorithms<br>	•	Data Science fundamentals<br>	•	Advanced Backend Development<br>	<br>
+<!-- Enhanced GitHub Profile README with Visual Elements -->
 
+<!-- Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Samresh%20Chaudhari&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" width="100%"/>
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Samresh_chaudhari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/samreshchaudhari/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Samresh31) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samreshc31@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Samresh8152&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Samresh8152&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samresh8152&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+Engineer;DSA+Learner;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  
+  <!-- Profile views counter -->
+  <img src="https://komarev.com/ghpvc/?username=samresh11&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Samresh8152&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+> *"Code. Build. Break. Learn. Repeat."*
+
+👨‍💻 I’m **Samresh Ajay Chaudhari**, a **Full-Stack Developer** and **Backend Engineer** passionate about building clean, functional, and user-focused applications.  
+
+🔧 I work with **Node.js, Express, MongoDB, MySQL, Next.Js, and I’m constantly improving my **DSA** and problem-solving skills.
+
+💡 I love building real-world projects — whether it's managing **expenses**,  or creating **smart attendance systems**.
+
+🎯 Curious mind. Constant learner. Always building something new.
+
+
+
+
+### 🎯 Currently Focused On:
+- 🤖 **Generative AI & LLMs** — Building next-gen AI applications
+- 🏗️ **Full-Stack Development** — MERN, Next.js, and modern web tech  
+- ☁️ **DEVOPS** — DOCKER, KUBERNETES
+- 🏆 **Competitive Programming** — Always problem-solving
+
+### 📈 Quick Stats:
+<div align="center">
+  
+[![LeetCode](https://img.shields.io/badge/LeetCode-kNIGHT-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Q8eKYMAvzp/)
+[![Problems Solved]( https://img.shields.io/badge/Problems_Solved-250+-00C853?style=for-the-badge&logo=leetcode&logoColor=white](https://img.shields.io/badge/Problems_Solved-250+-00C853?style=for-the-badge&logo=leetcode&logoColor=white )](#)
+
+</div>
+
+---
+## 💻 Tech Stack
+
+<div align="center">
+  
+### 🚀 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+
+### 🛠️ Development Tools
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 🎨 Frontend & Build Tools
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+  
+</div>
+
+## 🌐 Connect With Me
+
+<div align="center">
+  
+### 💬 Let's Build Something Amazing Together!
+
+*Open to collaborations, exciting projects, and meaningful conversations!*
+
+Whether you're looking to discuss the latest in AI, need a development partner, or just want to chat about technology — I'm always excited to connect with fellow builders and innovators.
+
+### 📫 Reach Me At:
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samresh_chaudhari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samreshchaudhari/)
+[![X](https://img.shields.io/badge/X-@Samreshc31-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Samresh31)
+[![Instagram](https://img.shields.io/badge/Instagram-@samresh_chaudahri-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samresh_chaudhari/)
+[![Gmail](https://img.shields.io/badge/Gmail-samreshc31@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samreshc31@gmail.com)
+  
+</div>
+
+---
+
+<div align="center">
+  
+### 🚀 Always Learning, Always Building, Always Growing
+
+*"Code is like humor. When you have to explain it, it's bad."* - Cory House
+  
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</div>
